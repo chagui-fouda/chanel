@@ -5,10 +5,15 @@
 using namespace std;
 int main()
 {
+    string name;
+    int password;
+    
     cout << "Hello World!\n";
 cout<<"welcome"<<endl;
     cout<<"enter your username"<<endl;
     cout<<" enter your password"<<endl;
+    cin>>name;
+    cin>>password;
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
